@@ -1,0 +1,33 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(225, 225, 234);
+    text-align: center;
+}
+
+.contenedor {
+    background-color: rgb(156, 156, 156);
+    width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin: 5px;
+    border: none;
+    cursor: pointer;
+    width: 80%;
+    justify-content: center;
+    width: 100%;
+}
+
+.correcta {
+    background-color: green;
+}
+
+.incorrecta {
+    background-color: red;
+}
